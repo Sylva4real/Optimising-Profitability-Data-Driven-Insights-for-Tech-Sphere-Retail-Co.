@@ -1,0 +1,2 @@
+# Optimising-Profitability-Data-Driven-Insights-for-Tech-Sphere-Retail-Co.
+This project helped Tech-Sphere Retail Co. identify key profitability and expense drivers across products, regions, and customers. My nteractive Power BI dashboard helped to transform data into actionable insights, optimising profit, reducing costs, and positioning the company for sustainable growth in the competitive consumer tech market.
